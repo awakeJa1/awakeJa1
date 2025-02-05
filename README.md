@@ -1,4 +1,4 @@
-- Hi, I’m @awakeJa1
+- Hi, I’m @awaky
 - I’m currently learning Software Engineering at UniOpet and computer science at UFPR (Universidade Federal do Paraná)
 - I’m looking to use my Github to my own academic stuff but if you like my projects you can send me a message 
 - How to reach me / you can send me an email at joaoielen@gmail.com 
