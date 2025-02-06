@@ -1,5 +1,5 @@
 <p align="center">
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=pinuya&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true" alt="ilustração do status do github">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=awakyy1&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="ilustração do status do github">
   
 <img
         align="right"
