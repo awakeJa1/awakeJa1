@@ -3,7 +3,7 @@
   
 <img
         align="right"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinuya&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=awakyy1&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
 </p>
